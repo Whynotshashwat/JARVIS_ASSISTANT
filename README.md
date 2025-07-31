@@ -1,4 +1,12 @@
 # 🧠 Jarvis Assistant - Personal AI Assistant in Python
+# 🧠 Jarvis Assistant
+
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/Whynotshashwat/JARVIS_ASSISTANT)
+![Repo Size](https://img.shields.io/github/repo-size/Whynotshashwat/JARVIS_ASSISTANT)
+![Stars](https://img.shields.io/github/stars/Whynotshashwat/JARVIS_ASSISTANT?style=social)
+![Forks](https://img.shields.io/github/forks/Whynotshashwat/JARVIS_ASSISTANT?style=social)
 
 Jarvis is a voice/text-based personal assistant built using Python. It can respond to commands, answer questions, open applications or websites, tell jokes, set alarms, and much more — all with a touch of emotional intelligence.
 
