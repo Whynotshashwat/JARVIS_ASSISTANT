@@ -1,0 +1,45 @@
+# 🐍 Python cache and artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 🌐 Environment files
+.env
+*.env
+
+# 💾 System files
+.DS_Store
+Thumbs.db
+
+# 📦 Virtual environments (optional)
+venv/
+env/
+ENV/
+.venv/
+
+# 📁 Logs and runtime files
+*.log
+logs/
+*.sqlite3
+*.db
+
+# 🔊 Media and audio
+*.mp3
+resources/*.mp3
+
+# 📝 User-specific data
+data/user.txt
+data/api_usage.txt
+
+# 📄 Backup or temp files
+*.bak
+*.tmp
+*.swp
+
+# 📋 Jupyter Notebooks (if any)
+.ipynb_checkpoints/
+
+# 📚 Misc
+command_log.txt
